@@ -38519,7 +38519,13 @@ var render = function() {
               _vm._m(0),
               _vm._v(" "),
               _c("div", { staticClass: "content" }, [
-                _c("div", { staticClass: "text" }, [_vm._v("Clientes")]),
+                _c("div", { staticClass: "text" }, [
+  _c("a", {
+    attrs: { href: "http://inventory.test/customer" },
+    style: { color: "#fff" } // Estilo opcional
+  }, [_vm._v("USUARIOS EASO")])
+])
+,
                 _vm._v(" "),
                 _c("div", { staticClass: "number" }, [
                   _vm._v(_vm._s(_vm.info.total_customer))

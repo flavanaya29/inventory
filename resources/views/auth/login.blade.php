@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Inventory | Login</title>
+	<title>EASOHUB | Login</title>
 	@include('include.header')
 </head>
 <body class="login-page">
     <div class="login-box">
         <div class="logo">
-            <a href="javascript:void(0);"><img class="img-fluid" src="{{ url('images/logo.png') }}" alt="inventory logo"> </a>
+            <a href="javascript:void(0);"><img class="img-fluid" src="{{ url('images/EASO-HUB.png') }}" alt="inventory logo"> </a>
             <!-- <small>A Inventory Softwaare</small> -->
         </div>
         <div class="card">
