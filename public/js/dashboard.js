@@ -38556,13 +38556,13 @@ var render = function() {
                 _vm._m(2),
                 _vm._v(" "),
                 _c("div", { staticClass: "content" }, [
-                  _c("div", { staticClass: "text" }, [ 
+ _c("div", { staticClass: "text" }, [ 
                     _c("a", {
     attrs: { href: "http://inventory.test/product" },
     style: { color: "#fff" } // Estilo opcional
   }, [_vm._v("INVENTARIO EQUIPO DE COMPUTO")])
 ])
-                  _c("div", { staticClass: "number" }, [
+                 _c("div", { staticClass: "number" }, [
                     _vm._v(_vm._s(_vm.info.total_product))
                   ])
                 ])

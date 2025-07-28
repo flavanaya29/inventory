@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>EASOHUB | Login</title>
+
 	@include('include.header')
 </head>
 <body class="login-page">
